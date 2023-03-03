@@ -1,0 +1,15 @@
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\bin\Debug\net7.0\mySolution.LoggerService.deps.json
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\bin\Debug\net7.0\mySolution.LoggerService.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\bin\Debug\net7.0\mySolution.LoggerService.pdb
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\bin\Debug\net7.0\mySolutions.Contracts.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\bin\Debug\net7.0\mySolutions.Contracts.pdb
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\obj\Debug\net7.0\mySolution.LoggerService.csproj.AssemblyReference.cache
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\obj\Debug\net7.0\mySolution.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\obj\Debug\net7.0\mySolution.LoggerService.AssemblyInfoInputs.cache
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\obj\Debug\net7.0\mySolution.LoggerService.AssemblyInfo.cs
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\obj\Debug\net7.0\mySolution.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\obj\Debug\net7.0\mySolution.LoggerService.csproj.CopyComplete
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\obj\Debug\net7.0\mySolution.LoggerService.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\obj\Debug\net7.0\refint\mySolution.LoggerService.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\obj\Debug\net7.0\mySolution.LoggerService.pdb
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.LoggerService\obj\Debug\net7.0\ref\mySolution.LoggerService.dll

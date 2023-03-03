@@ -31,3 +31,10 @@ C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Api\obj\Debug
 C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Api\obj\Debug\net7.0\mySolutions.Api.pdb
 C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Api\obj\Debug\net7.0\mySolutions.Api.genruntimeconfig.cache
 C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Api\obj\Debug\net7.0\ref\mySolutions.Api.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Api\bin\Debug\net7.0\nlog.Config
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Api\bin\Debug\net7.0\NLog.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Api\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Api\bin\Debug\net7.0\mySolution.LoggerService.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Api\bin\Debug\net7.0\mySolutions.Contracts.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Api\bin\Debug\net7.0\mySolution.LoggerService.pdb
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Api\bin\Debug\net7.0\mySolutions.Contracts.pdb
