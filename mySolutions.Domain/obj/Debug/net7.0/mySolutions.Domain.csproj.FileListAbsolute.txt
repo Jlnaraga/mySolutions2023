@@ -1,0 +1,12 @@
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Domain\bin\Debug\net7.0\mySolutions.Domain.deps.json
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Domain\bin\Debug\net7.0\mySolutions.Domain.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Domain\bin\Debug\net7.0\mySolutions.Domain.pdb
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Domain\obj\Debug\net7.0\mySolutions.Domain.csproj.AssemblyReference.cache
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Domain\obj\Debug\net7.0\mySolutions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Domain\obj\Debug\net7.0\mySolutions.Domain.AssemblyInfoInputs.cache
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Domain\obj\Debug\net7.0\mySolutions.Domain.AssemblyInfo.cs
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Domain\obj\Debug\net7.0\mySolutions.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Domain\obj\Debug\net7.0\mySolutions.Domain.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Domain\obj\Debug\net7.0\refint\mySolutions.Domain.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Domain\obj\Debug\net7.0\mySolutions.Domain.pdb
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Domain\obj\Debug\net7.0\ref\mySolutions.Domain.dll

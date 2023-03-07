@@ -1,0 +1,15 @@
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\bin\Debug\net7.0\mySolutions.Repository.deps.json
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\bin\Debug\net7.0\mySolutions.Repository.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\bin\Debug\net7.0\mySolutions.Repository.pdb
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\bin\Debug\net7.0\mySolutions.Domain.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\bin\Debug\net7.0\mySolutions.Domain.pdb
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\obj\Debug\net7.0\mySolutions.Repository.csproj.AssemblyReference.cache
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\obj\Debug\net7.0\mySolutions.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\obj\Debug\net7.0\mySolutions.Repository.AssemblyInfoInputs.cache
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\obj\Debug\net7.0\mySolutions.Repository.AssemblyInfo.cs
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\obj\Debug\net7.0\mySolutions.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\obj\Debug\net7.0\mySolutions.Repository.csproj.CopyComplete
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\obj\Debug\net7.0\mySolutions.Repository.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\obj\Debug\net7.0\refint\mySolutions.Repository.dll
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\obj\Debug\net7.0\mySolutions.Repository.pdb
+C:\Users\ira_b\Desktop\mySolutions2023\mySolutions2023\mySolutions.Repository\obj\Debug\net7.0\ref\mySolutions.Repository.dll

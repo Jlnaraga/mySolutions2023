@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "mySolutions.Domain/1.0.0": {
+        "runtime": {
+          "mySolutions.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mySolutions.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
