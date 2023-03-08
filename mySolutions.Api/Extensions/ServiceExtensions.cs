@@ -1,5 +1,9 @@
 using mySolutions.Contracts;
 using mySolutions.LoggerService;
+using mySolutions.Repository;
+using mySolutions.Service.Contracts;
+using mySolutions.Service;
+using Microsoft.EntityFrameworkCore;
 
 namespace mySolutions.Api.Extensions
 {
@@ -20,15 +24,17 @@ namespace mySolutions.Api.Extensions
 
                 });
 
-        public static void ConfigureLoggerService(this IServiceCollection services) => services.AddSingleton<ILoggerManager, LoggerManager>();
-        }
+        public static void ConfigureLoggerService(this IServiceCollection services) =>
+            services.AddSingleton<ILoggerManager, LoggerManager>();
 
+        public static void ConfigureRepositoryManager(this IServiceCollection services) =>
+            services.AddScoped<IRepositoryManager, RepositoryManager>();
+
+        public static void ConfigureServiceManager(this IServiceCollection services) => 
+            services.AddScoped<IServiceManager, ServiceManager>();
+
+        public static void ConfigureSqlContext(this IServiceCollection services, IConfiguration configuration) => 
+            services.AddDbContext<RepositoryContext>(opts => 
+                opts.UseSqlServer(configuration.GetConnectionString("sqlConnection"))); 
     }
-
-
-
-
-
-
-
-
+}
